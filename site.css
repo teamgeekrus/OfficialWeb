@@ -1,8 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
 #titre {
     
     color: rgb(213, 255, 213);
     text-align: center;
     background-color: rgb(10, 10, 10);
     size: 100px;
+
+}
+
+#text {
+
+    color: rgb(36, 36, 36);
+    text-align: center
 
 }
